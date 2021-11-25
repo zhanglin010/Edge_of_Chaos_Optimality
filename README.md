@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is to accompany paper:[Optimal Machine Intelligence at the Edge of Chaos](https://arxiv.org/abs/1909.05176).
+This repository is to accompany paper: [Optimal Machine Intelligence at the Edge of Chaos](https://arxiv.org/abs/1909.05176).
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ This repo contains two folders. One for MLP and CNN, and another one is for ResN
 
 Calculate the Jacobian norm of MLP and CNN in the training process.
 
-(Notation in the code: lyapunov0: method3 in Fig.S1, lyapunov11: method1 in Fig.S1, lyapunov2: method2 in Fig.S1; lyapunov1: jacobian norm.)
+(Notation in the code: lyapunov0 --> method3 in Fig.S1, lyapunov11 --> method1 in Fig.S1, lyapunov2 --> method2 in Fig.S1, lyapunov1 --> jacobian norm.)
 
 Command to run for MLP:
 
