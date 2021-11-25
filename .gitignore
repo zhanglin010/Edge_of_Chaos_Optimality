@@ -1,0 +1,10 @@
+# Data files
+rawdata/
+
+# cache file, compiled python and etc
+__pycache__
+*.pyc
+*.pyd
+.ipynb_checkpoints
+.DS_Store
+.vscode
